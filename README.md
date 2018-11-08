@@ -1,6 +1,6 @@
 # Monoprice-MP-I3
 Stephen's documentation for the Monoprice MP I3
-  Purchased November 5th, 2018 from [the official Monoprice eBay shop](https://www.ebay.com/itm/372243455532) @ $99.99 USD
+  Purchased November 5th, 2018 from [the official Monoprice eBay shop](https://www.ebay.com/itm/372243455532) ($99.99 USD)
   
 
 ## Dimensions
