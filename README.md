@@ -9,12 +9,9 @@ The following represent the actual dimensions. Note that the depth "actual" repr
 >**Width** (Without Spool):  298mm
 
 >**Width** (With Spool):     373mm
-
 >
 >**Depth** (Smallest):       240mm
 
 >**Depth** (Actual, in use): 395mm
-
 >
->**Height**                    375mm
-  
+>**Height**:                 375mm
