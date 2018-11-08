@@ -6,14 +6,10 @@ Stephen's documentation for the Monoprice MP I3
 ## Dimensions
 The following represent the actual dimensions. Note that the depth "actual" represents the space the priner will need to completely actuate the bed on either extreme of the axis.
 
-**Width** (Without Spool):  298mm
-
+**Width** (Without Spool):  298mm  
 **Width** (With Spool):     373mm
 
-
-**Depth** (Smallest):       240mm
-
+**Depth** (Smallest):       240mm  
 **Depth** (Actual, in use): 395mm
-
 
 **Height**:                 375mm
